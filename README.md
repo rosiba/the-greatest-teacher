@@ -3,6 +3,8 @@ OpenAI custom GPT model dedicated to teach science to people from all ages and b
 
 > Built in loving memory of **Richard P. Feynman** a.k.a *The Greatest Teacher*
 
+![Feynman's Photo](https://upload.wikimedia.org/wikipedia/en/4/42/Richard_Feynman_Nobel.jpg)
+
 ## Usage
 - Create an API key from ChatGPT account page
 - Add your API key as an environment variable using one of these two ways:
