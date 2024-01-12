@@ -1,5 +1,7 @@
 # The Greatest Teacher
-OpenAI custom GPT model dedicated to teach science to people from all ages and backgrounds. Built in loving memory of **Richard P. Feynman** a.k.a *The Greatest Teacher*
+OpenAI custom GPT model dedicated to teach science to people from all ages and backgrounds. 
+
+> Built in loving memory of **Richard P. Feynman** a.k.a *The Greatest Teacher*
 
 ## Usage
 - Create an API key from ChatGPT account page
